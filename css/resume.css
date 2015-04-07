@@ -1,0 +1,48 @@
+
+.btn-custom {
+  background-color: hsl(176, 35%, 80%) !important;
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f8fbfb", endColorstr="#badddb");
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#f8fbfb), to(#badddb));
+  background-image: -moz-linear-gradient(top, #f8fbfb, #badddb);
+  background-image: -ms-linear-gradient(top, #f8fbfb, #badddb);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f8fbfb), color-stop(100%, #badddb));
+  background-image: -webkit-linear-gradient(top, #f8fbfb, #badddb);
+  background-image: -o-linear-gradient(top, #f8fbfb, #badddb);
+  background-image: linear-gradient(#f8fbfb, #badddb);
+  border-color: #badddb #badddb hsl(176, 35%, 75.5%);
+  color: #333 !important;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.29);
+  -webkit-font-smoothing: antialiased;
+}
+.foot{
+	text-align:right;
+	background-color:#000;
+	height:50px;
+	color:#999;
+}
+.leftpanel{
+	padding-left:20px;
+	padding-bottom:0.2px;
+	border-style:double;
+	border-width:thick;
+	border-color:#26A8AE;
+	background-color:#000;
+	color:#FFF;
+	font-family: 'Rosario', sans-serif;
+	border-radius:10px;
+}
+
+
+.education{
+	font-size:16px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	margin-bottom:20px;
+}
+.headlines{
+	color:	#26A8AE;
+}
+.menu
+{
+	width:106px;
+}

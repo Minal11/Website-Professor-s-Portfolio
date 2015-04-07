@@ -1,0 +1,51 @@
+
+
+.foot{
+	text-align:right;
+	background-color:#000;
+	height:50px;
+	color:#999;
+	border-radius:10px;
+}
+.leftpanel{
+	padding-left:20px;
+	padding-bottom:0.2px;
+	border-style:double;
+	border-width:thick;
+	border-color:#26A8AE;
+	background-color:#000;
+	color:#FFF;
+	font-family: 'Rosario', sans-serif;
+	border-radius:10px;
+}
+
+
+.education{
+	font-size:16px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+.headlines{
+	color:	#26A8AE;
+}
+.menu
+{
+	width:106px;
+}
+ul {
+    list-style: none;
+    padding:0;
+    margin:0;
+    
+}
+
+
+
+li:before {
+    content: "• ";
+    color: #26A8AE; /* or whatever color you prefer */
+}
+a
+{
+	color:	#26A8AE;
+ }
+
